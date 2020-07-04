@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+@media(max-width: 568px){
+    #jumbo-head{
+        font-size: 30px;
+        padding-left: 0.5em;
+    }
+    #jumbo-body{
+        font-size: 20px;
+        padding-left: 0.5em;
+    }
+    .footer h1{
+        font-size: 1em;
+        position: relative;
+        left: 5em;
+    }
+    #badge{
+        position: absolute;
+        left: 5rem;
+    }
+}
+.footer h1{
+    font-size: 1em;
+    position: relative;
+    left: 30em;
+}
+#badge{
+    position: absolute;
+    left: 65rem;
+}
